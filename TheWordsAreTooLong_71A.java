@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TheWordsAreTooLong71A {
+public class TheWordsAreTooLong_71A {
     public static void main(String[] args) {
         final int SHORT_LEN = 10;
         Scanner sc = new Scanner(System.in);
