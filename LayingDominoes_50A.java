@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LayingDominoes50A {
+public class LayingDominoes_50A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] temp = sc.nextLine().split(" ");
