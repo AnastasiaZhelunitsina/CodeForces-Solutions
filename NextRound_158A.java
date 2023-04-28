@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NextRound158A {
+public class NextRound_158A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] buff = sc.nextLine().split(" ");
