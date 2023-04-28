@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BeautifulMatrix263A {
+public class BeautifulMatrix_263A {
     public static void main(String[] args) {
 
         final int INDEX_CENTRAL_COLUMN = 2;
