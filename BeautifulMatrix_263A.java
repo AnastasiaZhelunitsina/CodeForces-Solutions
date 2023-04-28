@@ -51,6 +51,5 @@ public class BeautifulMatrix_263A {
             }
         }
         System.out.println(moveCounter);
-
     }
 }
