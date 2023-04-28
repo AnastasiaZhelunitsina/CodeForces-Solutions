@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bit282A {
+public class Bit_282A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = 0;
