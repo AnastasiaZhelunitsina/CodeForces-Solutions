@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MishkaAndBigBrother_791A {
+public class BearAndBigBrother_791A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String buff = sc.nextLine();
