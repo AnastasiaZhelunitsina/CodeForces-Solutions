@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CapitalizationOfTheWord_281A {
+public class WordCapitalization_281A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String line = sc.nextLine();
