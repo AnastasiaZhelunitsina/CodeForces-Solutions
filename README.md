@@ -1,4 +1,4 @@
 # CodeForces-Solutions
-My Codeforces solutions from the archive.
-I started with a rating of 800.
-Each solution passed all tests
+My solutions to popular Codeforces problems from the archive, sorted by the number of solved by participants.
+
+Each solution passed all tests.
